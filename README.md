@@ -6,9 +6,9 @@
 * JavaScript, JQuery, AJAX
 * HTML/CSS
 * CircleCI
+* Amazon S3
 
-#### Team Name: Team Martian Huggers
-#### Members:
+#### Team Members:
   * Eliza
   * Libby
   * Nick
@@ -27,3 +27,6 @@
  * Employee can add new items from shipment
  * Employee can log discrepancies between order and received shipment
  * Employee can transfer parts between warehouses
+
+#### Live Site
+http://rutherford-rocketlabs.herokuapp.com/
