@@ -32,5 +32,6 @@ http://rutherford-rocketlabs.herokuapp.com/
  * Employee can transfer parts between warehouses
 
 Landing Page:  
-![alt text](https://github.com/ebrine/Rutherford_Rocket_Labs/blob/master/lib/assets/Screenshot%20(13).png "landing page" =250x)
+![alt text](https://github.com/ebrine/Rutherford_Rocket_Labs/blob/master/lib/assets/Screenshot%20(13).png "landing page")  
+<img src="https://github.com/ebrine/Rutherford_Rocket_Labs/blob/master/lib/assets/Screenshot%20(13).png" alt="Landing Pag" style="width: 200px;"/>
 
