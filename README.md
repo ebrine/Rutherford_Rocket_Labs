@@ -1,5 +1,8 @@
 ## Warehouse/Inventory Management System for Rutherford Rocket Labs
 
+### Live Site
+http://rutherford-rocketlabs.herokuapp.com/
+
 ### Technologies:
 * Ruby on Rails
 * Rspec, Cabybara
@@ -8,13 +11,13 @@
 * CircleCI
 * Amazon S3
 
-#### Team Members:
+### Team Members:
   * Eliza
   * Libby
   * Nick
   * Blaine
 
-#### User Stories:
+### User Stories:
  * Employees can log in with Employee number and password
  * Employees can logout
  * After logging in Employees can view the home page
@@ -28,5 +31,4 @@
  * Employee can log discrepancies between order and received shipment
  * Employee can transfer parts between warehouses
 
-#### Live Site
-http://rutherford-rocketlabs.herokuapp.com/
+
