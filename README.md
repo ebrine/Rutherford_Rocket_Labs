@@ -1,3 +1,11 @@
+## Warehouse/Inventory Management System for Rutherford Rocket Labs
+
+### Technologies:
+* Ruby on Rails
+* Rspec
+* Cabybara
+* CircleCI
+
 Team Name: Team-Martian-Huggers-Irregardless
 Members:
   * Eliza
