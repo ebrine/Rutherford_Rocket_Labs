@@ -31,19 +31,19 @@ http://rutherford-rocketlabs.herokuapp.com/
  * Employee can log discrepancies between order and received shipment
  * Employee can transfer parts between warehouses
 
-####Landing Page  
+#### Landing Page  
 ![alt text](https://github.com/ebrine/Rutherford_Rocket_Labs/blob/master/lib/assets/Screenshot%20(13).png "landing page")  
   
   
-####Home Page
+#### Home Page
 ![alt text](https://github.com/ebrine/Rutherford_Rocket_Labs/blob/master/lib/assets/Screenshot%20(14).png "home page")  
   
   
-####Inventory
+#### Inventory
 ![alt text](https://github.com/ebrine/Rutherford_Rocket_Labs/blob/master/lib/assets/Screenshot%20(15).png "inventory page")  
   
   
-####Receive Shipment
+#### Receive Shipment
 ![alt text](https://github.com/ebrine/Rutherford_Rocket_Labs/blob/master/lib/assets/Screenshot%20(16).png "receive shipment")
 
 
