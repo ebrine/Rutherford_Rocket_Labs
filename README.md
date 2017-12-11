@@ -7,22 +7,23 @@
 * HTML/CSS
 * CircleCI
 
-Team Name: Team-Martian-Huggers-Irregardless
-Members:
+#### Team Name: Team Martian Huggers
+#### Members:
   * Eliza
   * Libby
   * Nick
   * Blaine
 
-User Stories:
- * Employees can log in with Employees number and password
+#### User Stories:
+ * Employees can log in with Employee number and password
  * Employees can logout
  * After logging in Employees can view the home page
  * Clicking on the Logo Opens the Home Page
- * Managers add a warehouse
+ * Managers can add a warehouse
  * Managers can create Employees accounts
- * Employee and Manager can check inventory for a specific part
- * Employee and Manager can remove an item from inventory
- * Employee can add new item from shipment
- * Employee can log discrepancies between order and received shipment (Consider splitting into smaller user stories")
- * Employee and Manager can see which inventory items are at or below minimum count.
+ * Employees can check inventory for a specific part
+ * Employee can view all inventory by warehouse
+ * Employee can remove an item from inventory
+ * Employee can add new items from shipment
+ * Employee can log discrepancies between order and received shipment
+ * Employee can transfer parts between warehouses
