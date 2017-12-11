@@ -2,8 +2,9 @@
 
 ### Technologies:
 * Ruby on Rails
-* Rspec
-* Cabybara
+* Rspec, Cabybara
+* JavaScript, JQuery, AJAX
+* HTML/CSS
 * CircleCI
 
 Team Name: Team-Martian-Huggers-Irregardless
